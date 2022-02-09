@@ -1,0 +1,12 @@
+{
+    "name": "root/agenda-barbearia",
+    "authors": [
+        {
+            "name": "MaueDev",
+            "email": "mauricio.rsc.mg@gmail.com"
+        }
+    ],
+    "require": {
+        "coffeecode/router": "^1.0"
+    }
+}
